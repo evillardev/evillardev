@@ -1,4 +1,4 @@
-## Hola mundo! Mi Nombre Es Eduardo Villar 👋
+## Hola mundo! Mi nombre es Eduardo Villar 👋
 
 <!--
 **evillardev/evillardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
