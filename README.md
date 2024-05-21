@@ -1,6 +1,6 @@
 ## Hola mundo! Mi nombre es Eduardo Villar 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/edua66ro_x?style=social)](https://x.com/edua66ro_x)
 <!--
 **evillardev/evillardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
